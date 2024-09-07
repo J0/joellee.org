@@ -4,7 +4,9 @@ export default function About() {
   return (
     <>
       <h1>About</h1>
-      <div>
+      <p>Happy Thoughts~</p>
+
+      <div style={{ marginTop: "1em" }}>
         Back to <Link href="/">Home</Link>
       </div>
     </>
