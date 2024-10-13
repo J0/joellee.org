@@ -5,6 +5,7 @@ export default function About() {
     <>
       <h1>About</h1>
       <p>Happy Thoughts~</p>
+      <p>Ice Cream</p>
 
       <div style={{ marginTop: "1em" }}>
         Back to <Link href="/">Home</Link>
